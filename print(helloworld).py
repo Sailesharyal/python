@@ -7,6 +7,7 @@ print(c)
 
 #asking user for input
 a=input(("write down any digit"))
-b=input(int("write down any word"))
+b=input(("write down any word"))
 
-
+print (a)
+print(b)
